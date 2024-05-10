@@ -1,0 +1,74 @@
+﻿@model MemberRegistration.MvcWebUI.Models.MemberAddViewModel
+
+<!DOCTYPE html>
+
+<html>
+
+<div class="container">
+    <main>
+        <div class="py-5 text-center">
+
+            <h2>Kayıt Formu</h2>
+            <p class="lead">Lütfen bilgilerinizi giriniz</p>
+        </div>
+
+        <div class="row g-12">
+            <div class="col-md-12 col-lg-12">
+                <h4 class="mb-3">Bilgileriniz</h4>
+                @using (Html.BeginForm())
+                {
+
+
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <label for="firstName" class="form-label">Adınız</label>
+                            <input type="text" class="form-control" id="firstName" name="member.firstName" placeholder="" value="">
+                        </div>
+
+                        <div class="col-sm-6">
+                            <label for="lastName" class="form-label">Soyadınız</label>
+                            <input type="text" class="form-control" id="lastName" name="member.lastName" placeholder="" value="">
+                        </div>
+
+                        <div class="col-12">
+                            <label for="TcNo" class="form-label">Tc Kimlik Numaranız</label>
+                            <div class="input-group has-validation">
+                                <span class="input-group-text"></span>
+                                <input type="text" class="form-control" id="TcNo" name="member.TcNo" placeholder="Tc Kimlik Numaranız">
+                            </div>
+                        </div>
+
+                        <div class="col-12">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="email" name="member.email" placeholder="siz@ornek.com">
+                        </div>
+
+                        <div class="col-12">
+                            <label for="DateOfBirth" class="form-label">Doğum Tarihiniz</label>
+                            <input type="text" class="form-control" id="DateOfBirth" name="member.DateOfBirth" placeholder="2004">
+                        </div>
+
+
+
+
+                    </div>
+
+                    <hr class="my-4">
+
+                    <button class="w-100 btn btn-primary btn-lg" type="submit">Kayıt Ol</button>
+                }
+            </div>
+        </div>
+    </main>
+
+    <footer class="my-5 pt-5 text-body-secondary text-center text-small">
+        <p class="mb-1">&copy; 2017–2024 Company Name</p>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="#">Privacy</a></li>
+            <li class="list-inline-item"><a href="#">Terms</a></li>
+            <li class="list-inline-item"><a href="#">Support</a></li>
+        </ul>
+    </footer>
+</div>
+</body>
+</html>

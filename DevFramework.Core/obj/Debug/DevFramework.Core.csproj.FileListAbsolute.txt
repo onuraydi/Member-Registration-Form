@@ -1,0 +1,165 @@
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.dll.config
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\NHibernate.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\NHibernate.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFrame.8A8C1B46.Up2Date
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\FluentValidation.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\PostSharp.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\FluentValidation.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\PostSharp.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pssym
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.dll.postsharp
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\log4net.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\NLog.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\log4net.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\NLog.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Ninject.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\Ninject.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.dll.config
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\FluentValidation.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\log4net.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\NHibernate.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Ninject.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\NLog.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\PostSharp.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\FluentValidation.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\log4net.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\NHibernate.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Ninject.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\NLog.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\PostSharp.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pssym
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFrame.8A8C1B46.Up2Date
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.dll.postsharp
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\DevFramework.Core.dll.config
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\AutoMapper.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\EntityFramework.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\FluentValidation.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\log4net.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\NHibernate.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\NLog.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\PostSharp.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Remotion.Linq.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\AutoMapper.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\EntityFramework.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\FluentValidation.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\log4net.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\NHibernate.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Ninject.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\NLog.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\PostSharp.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Remotion.Linq.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\DevFramework.Core.pssym
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFrame.8A8C1B46.Up2Date
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFramework.Core.dll.postsharp
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFramework.Core.dll
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\obj\Debug\DevFramework.Core.pdb
+C:\Users\ONUR\Desktop\MemberRegistration\DevFramework.Core\bin\Debug\Ninject.dll
